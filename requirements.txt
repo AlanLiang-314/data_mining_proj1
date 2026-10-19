@@ -1,0 +1,15 @@
+# Shared by Final_experiments.ipynb and Paper_experiments.ipynb.
+# Versions observed in the project's Python 3.13.12 environment.
+numpy==2.5.4
+pandas==3.0.6
+matplotlib==3.11.2
+scikit-learn==1.9.1
+statsmodels==0.15.0
+python-dateutil==2.9.0.post0
+ipython==9.17.1
+ipykernel==7.4.0
+
+# Transitive numerical dependency pinned to the observed environment.
+scipy==1.18.1
+
+# Optional browser UI: python -m pip install jupyterlab
